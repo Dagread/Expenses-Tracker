@@ -1,2 +1,2 @@
 # Expenses-Tracker
- A Java application to track expenses
+An application to track expenses in different currencies (+ time as currency).
